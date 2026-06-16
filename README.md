@@ -7,6 +7,9 @@ A production-ready SQLite database architecture built to analyze Indian Premier 
 * **`02_SAMPLE_DATA.sql`**: Realistic player metrics, auction values, and match scorecards for verification.
 * **`03_ADVANCED_QUERIES.sql`**: 7 advanced analytical scripts solving complex data calculations (CTEs, Gaps-and-Islands, percentiles).
 * **`04_INDEXES.sql`**: Secondary composite indexing strategies and query plan audit benchmarks.
+* ## 📁 Repository Structure
+* **`main.sql`**: Relational database structure mapping 6 highly normalized tables, realistic player data metrics, and core optimization indexes combined into a single, seamless script.
+* **`README.md`**: Technical documentation, architecture overview, and project execution guide.
 
 ---
 
